@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ssimkani
 - 👀 I’m interested in Web Development, Data Analysis, Machine Learning, AI
 - 🌱 I’m currently learning Ruby, Python, and R
-- 📫 How to reach me ... @seenasim on Discord
+- 📫 How to reach me ... seenasimkani@gmail.com
 
 <!---
 ssimkani/ssimkani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
