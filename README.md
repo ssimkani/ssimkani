@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssimkani
-- 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning Ruby, HTML, CSS, and Python
+- 👀 I’m interested in Web Development, Data Analysis, Machine Learning, AI
+- 🌱 I’m currently learning Ruby, Python, and R
 - 📫 How to reach me ... @seenasim on Discord
 
 <!---
