@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ssimkani
 - 👀 I’m interested in Web Development, Data Analysis, Machine Learning, AI
-- 🌱 I’m currently learning about the ethical usage of AI and how to interpret machine learning models.
+- 🌱 I’m currently learning about the ethical usage of AI and how to interpret machine learning models
+- 〽️ I'm studying Data Science at the University of Michigan
 - 📫 How to reach me ... seenasimkani@gmail.com
 
 <!---
